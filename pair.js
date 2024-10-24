@@ -20,7 +20,7 @@ function removeFile(FilePath){
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-        async function GIFTED_MD_PAIR_CODE() {
+        async function GIFTED_MD_PAIR_CODE(XTS3PFHS) {
         const {
             state,
             saveCreds
